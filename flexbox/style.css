@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: brown;
+}
+.klasa{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+    height: 30ox;
+    
+    
+}            
+h1{
+    color: white;
+    text-align: center;
+}     
